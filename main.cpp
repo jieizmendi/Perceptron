@@ -21,6 +21,7 @@ double ecuation(double x)
 {
     //return 0.2 * x + 0.3;
     /*
+    
     if (x > 0.0)
         return std::sqrt(x) - 0.15;
     return x * x * x - 0.15;
